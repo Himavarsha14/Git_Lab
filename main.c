@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello from Git Repository\n");
+    printf("Version 2 from Jenkins Build\n");
     return 0;
 }
